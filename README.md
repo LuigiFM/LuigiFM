@@ -10,7 +10,7 @@ Gosto de criar projetos para aprender novas tecnologias e entender cada vez mais
 * ⚙️ Estudando **C# / .NET e ASP.NET Core**
 * 🗄️ Trabalhando em projetos com **Entity Framework Core e bancos de dados**
 * 🌐 Desenvolvendo **APIs e aplicações web**
-* 🧠 Interesse em **IA, e arquitetura de sistemas**
+* 🧠 Interesse em **IA, e engenharia de software**
 
 ## 🛠️ Tecnologias
 
