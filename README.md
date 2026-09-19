@@ -24,6 +24,7 @@ Gosto de criar projetos para aprender novas tecnologias e entender cada vez mais
 
 Continuar evoluindo como desenvolvedor e construir projetos cada vez mais completos.
 
-Você pode checar alguns projetos meus logo abaixo.
+
 
 > Transformando curiosidade em código. 🚀
+> Você pode checar alguns projetos meus logo abaixo.
