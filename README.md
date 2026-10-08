@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Luiz!
 
-💻 Estudante e desenvolvedor focado principalmente em **Backend, C# e .NET**.
+💻 Estudante e desenvolvedor focado principalmente em **Backend, C#, .NET e node.js**.
 
 Gosto de criar projetos para aprender novas tecnologias e entender cada vez mais sobre programação.
 
@@ -14,7 +14,7 @@ Gosto de criar projetos para aprender novas tecnologias e entender cada vez mais
 
 ## 🛠️ Tecnologias
 
-**Backend:** C# • .NET • ASP.NET Core • Entity Framework Core
+**Backend:** node.js • C# • .NET • ASP.NET Core • Entity Framework Core
 **Web:** JavaScript • HTML • CSS
 **Ferramentas:** Git • GitHub • Visual Studio • VS Code
 **Banco de dados:** SQL
