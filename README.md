@@ -2,14 +2,14 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,65:241344,100:172554&height=190&text=Luiz%20Miguel&fontSize=54&fontColor=F0F6FC&fontAlignY=43&desc=SOUZA%20ARA%C3%9AJO%20%20%2F%2F%20%20LuigiFM&descSize=15&descAlignY=68&descColor=A5B4FC"
-    alt="Luiz Miguel Souza Araújo — LuigiFM"
+    alt="Luiz Miguel — LuigiFM"
   />
 
   <br />
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Estudante+e+desenvolvedor.;Atualmente%2C+estudando+back-end.;C%23+%2F+.NET+%2F+ASP.NET;Node.js+%2F+Express.js+%2F+MySQL"
-    alt="Estudante e desenvolvedor, atualmente estudando back-end"
+    alt="Estudante desenvolvedor"
   />
 
   <p>
