@@ -1,15 +1,15 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,65:241344,100:172554&height=190&text=Luiz%20Miguel&fontSize=54&fontColor=F0F6FC&fontAlignY=43&desc=SOUZA%20ARA%C3%9AJO%20%20%2F%2F%20%20LuigiFM&descSize=15&descAlignY=68&descColor=A5B4FC"
-    alt="Luiz Miguel — LuigiFM"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,65:241344,100:172554&height=190&text=Luiz%20Miguel&fontSize=54&fontColor=F0F6FC&fontAlignY=43&desc=DESENVOLVIMENTO%20BACK-END%20%20%2F%2F%20%20LuigiFM&descSize=15&descAlignY=68&descColor=A5B4FC"
+    alt="Luiz Miguel — Desenvolvimento back-end"
   />
 
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Estudante+e+desenvolvedor.;Atualmente%2C+estudando+back-end.;C%23+%2F+.NET+%2F+ASP.NET;Node.js+%2F+Express.js+%2F+MySQL"
-    alt="Estudante desenvolvedor"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Estudante+de+tecnologia.;Desenvolvedor+com+foco+em+back-end.;C%23+%2F+.NET+%2F+ASP.NET;Node.js+%2F+Express.js"
+    alt="Estudante de tecnologia e desenvolvedor com foco em back-end"
   />
 
   <p>
@@ -29,25 +29,27 @@
 
 ## Sobre mim
 
-Sou **Luiz Miguel Souza Araújo**, estudante e desenvolvedor.
+Sou **Luiz Miguel**, estudante de tecnologia e desenvolvedor com foco em **back-end**.
 
-Atualmente, meu foco de estudo é **back-end**. Trabalho com C#, .NET e ASP.NET, além de Node.js, Express.js e MySQL. Este perfil reúne meus projetos e o que venho desenvolvendo enquanto estudo.
+Atualmente, aprofundo meus estudos em **C#, .NET e ASP.NET**, além de desenvolver com **Node.js e Express.js**. Aqui compartilho meus projetos e registro minha evolução no desenvolvimento de software.
 
 <br />
 
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mysql&theme=dark" alt="C#, .NET, Node.js, Express.js e MySQL" />
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark"
+    alt="C#, .NET, Node.js e Express.js"
+  />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-171321?style=flat-square&labelColor=171321&color=171321" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-171321?style=flat-square" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-171321?style=flat-square&logo=dotnet&logoColor=A78BFA" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET-171321?style=flat-square&logo=dotnet&logoColor=A78BFA" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=93C5FD" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=93C5FD" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=93C5FD" alt="MySQL" />
 </p>
 
 <br />
@@ -171,9 +173,9 @@ Atualmente, meu foco de estudo é **back-end**. Trabalho com C#, .NET e ASP.NET,
 <br />
 
 <div align="center">
-  <sub><strong>Luiz Miguel Souza Araújo</strong> &nbsp; / &nbsp; LuigiFM</sub>
+  <sub><strong>Luiz Miguel</strong> &nbsp; / &nbsp; LuigiFM</sub>
   <br />
-  <sub>Estudante · Desenvolvedor · Back-end</sub>
+  <sub>Estudante de tecnologia · Desenvolvedor com foco em back-end</sub>
   <br /><br />
   <img
     width="100%"
