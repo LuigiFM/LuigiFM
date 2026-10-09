@@ -8,7 +8,7 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Estudante+de+tecnologia.;Desenvolvedor+web;C%23+%2F+.NET+%2F+ASP.NET;Node.js+%2F+Express.js"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Desenvolvedor-web+Sistemas back-end;C%23+%2F+.NET+%2F+ASP.NET;Node.js+%2F+Express.js"
     alt="Desenvolvedor web"
   />
 
