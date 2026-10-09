@@ -2,14 +2,14 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,65:241344,100:172554&height=190&text=Luiz%20Miguel&fontSize=54&fontColor=F0F6FC&fontAlignY=43&desc=DESENVOLVIMENTO%20BACK-END%20%20%2F%2F%20%20LuigiFM&descSize=15&descAlignY=68&descColor=A5B4FC"
-    alt="Luiz Miguel — Desenvolvimento back-end"
+    alt="Luiz Miguel — Desenvolvimento de aplicações"
   />
 
   <br />
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=Estudante+de+tecnologia.;Desenvolvedor+com+foco+em+back-end.;C%23+%2F+.NET+%2F+ASP.NET;Node.js+%2F+Express.js"
-    alt="Estudante de tecnologia e desenvolvedor com foco em back-end"
+    alt="Desenvolvedor"
   />
 
   <p>
@@ -29,7 +29,7 @@
 
 ## Sobre mim
 
-Sou **Luiz Miguel**, estudante de tecnologia e desenvolvedor com foco em **back-end**.
+Sou **Luiz Miguel**, desenvolvedor.
 
 Atualmente, aprofundo meus estudos em **C#, .NET e ASP.NET**, além de desenvolver com **Node.js e Express.js**. Aqui compartilho meus projetos e registro minha evolução no desenvolvimento de software.
 
